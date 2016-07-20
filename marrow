@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<title>Sharing America&#039;s Marrow</title>
+		<link rel="apple-touch-icon" sizes="57x57" href="/wp-content/themes/SAM/favicon/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/wp-content/themes/SAM/favicon/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/wp-content/themes/SAM/favicon/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/wp-content/themes/SAM/favicon/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/wp-content/themes/SAM/favicon/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/wp-content/themes/SAM/favicon/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/wp-content/themes/SAM/favicon/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/wp-content/themes/SAM/favicon/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/SAM/favicon/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="/wp-content/themes/SAM/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/SAM/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="/wp-content/themes/SAM/favicon/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/SAM/favicon/favicon-16x16.png">
+		<link rel="manifest" href="/wp-content/themes/SAM/favicon/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+		<script src="//use.typekit.net/nji8ieh.js"></script>
+		<script>try{Typekit.load();}catch(e){}</script>
+		<link rel="stylesheet" type="text/css" href="http://sharingamericasmarrow.com/wp-content/themes/SAM/style.css" />
+		<script src="/wp-content/themes/SAM/js/modernizr.js"></script>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="A quest to register 50,000 bone marrow donors in 50 states. Searching for heroes to save the lives of patients fighting blood cancer and other bone marrow diseases."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://sharingamericasmarrow.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Sharing America&#039;s Marrow" />
+<meta property="og:description" content="A quest to register 50,000 bone marrow donors in 50 states. Searching for heroes to save the lives of patients fighting blood cancer and other bone marrow diseases." />
+<meta property="og:url" content="http://sharingamericasmarrow.com/" />
+<meta property="og:site_name" content="Sharing America&#039;s Marrow" />
+<meta property="og:image" content="http://sharingamericasmarrow.com/wp-content/uploads/2015/10/SAM_VAN_feild.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="A quest to register 50,000 bone marrow donors in 50 states. Searching for heroes to save the lives of patients fighting blood cancer and other bone marrow diseases." />
+<meta name="twitter:title" content="Sharing America&#039;s Marrow" />
+<meta name="twitter:image" content="http://sharingamericasmarrow.com/wp-content/uploads/2015/10/SAM_VAN_feild.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/sharingamericasmarrow.com\/","name":"Sharing America&#039;s Marrow","potentialAction":{"@type":"SearchAction","target":"http:\/\/sharingamericasmarrow.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Sharing America&#039;s Marrow &raquo; Feed" href="http://sharingamericasmarrow.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sharing America&#039;s Marrow &raquo; Comments Feed" href="http://sharingamericasmarrow.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sharing America&#039;s Marrow &raquo; Home Comments Feed" href="http://sharingamericasmarrow.com/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/sharingamericasmarrow.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://sharingamericasmarrow.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-name-css'  href='http://sharingamericasmarrow.com/wp-content/themes/SAM/style.css?ver=4.5.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=1.11.1'></script>
+<link rel='https://api.w.org/' href='http://sharingamericasmarrow.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sharingamericasmarrow.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sharingamericasmarrow.com/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='http://sharingamericasmarrow.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://sharingamericasmarrow.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsharingamericasmarrow.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://sharingamericasmarrow.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsharingamericasmarrow.com%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				<script src="/wp-content/themes/SAM/js/jquery.smoothState.js"></script>
+
+	</head>
+	<body>
+		<div id="main" class="m-scene">
+
+		<div class="shift">
+			<img src="/wp-content/themes/SAM/images/horizontal-shift-graphic.svg"/>
+		</div>
+		<div class="shift-wrapper">
+			<div class="home-menu">
+				<header class="main-menu">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://sharingamericasmarrow.com/story/">Story</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://sharingamericasmarrow.com/involved/">Involved</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58"><a href="http://sharingamericasmarrow.com/journey/goodbye-maggie/">Journey</a></li>
+<li id="menu-item-385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a target="_blank" href="http://www.deletebloodcancer.org/register?source=sharingamericasmarrow">Register</a></li>
+</ul></div>				</header>
+			</div><!-- end .home-menu -->
+			<div class="interior-menu">
+				<header class="main-menu">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://sharingamericasmarrow.com/story/">Story</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://sharingamericasmarrow.com/involved/">Involved</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58"><a href="http://sharingamericasmarrow.com/journey/goodbye-maggie/">Journey</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a target="_blank" href="http://www.deletebloodcancer.org/register?source=sharingamericasmarrow">Register</a></li>
+</ul></div>				</header>
+			</div><!-- end .interior-menu -->
+			<div id="sub-main" class="home page page-id-4 page-template-default page-home">
+				<script>
+			    jQuery('.main-menu li').on('click', function(){
+				    jQuery('.main-menu li').removeClass('current-menu-item', {duration:1000});
+				    jQuery(this).addClass('current-menu-item');
+			    })
+			    if(window.location.href.indexOf("journey") > -1) {
+			       jQuery('#menu-main-menu-1 .menu-item-58').addClass('current-menu-item');
+			    }
+				</script>
+
+<div class="loaded">
+	<div class="content">
+			<div class="bg-video"></div>
+			<a href="http://sharingamericasmarrow.com/involved/" class="intro-copy">
+				<h1 class="headline">Turning Regular People Into Heroes</h1>
+				<p>Inspired by the fight to save a sister and the need for bone marrow donors.</p>
+			</a>
+	</div>
+</div>
+		</div>
+		<div class="footer">
+			<div class="container clearfix">
+				<a href="http://projectsam.wpengine.com/" class="footer-logo"></a>
+				<div class="all-business">
+					<div class="logos">
+						<a href="http://www.deletebloodcancer.org/en" target="_blank"><img src="/wp-content/themes/SAM/images/logo-dbc.svg"/></a>
+						<a href="http://www.nationalstemcellfoundation.org/" target="_blank">National Stem Cell Foundation</a>
+						<a href="http://kosair.org/" target="_blank">Kosair Charities</a>
+					</div>
+					<div class="menu">
+						<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-168"><a href="http://sharingamericasmarrow.com/">Home</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="http://sharingamericasmarrow.com/story/">Story</a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="http://sharingamericasmarrow.com/involved/">Involved</a></li>
+<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="http://sharingamericasmarrow.com/involved/register/">Register</a></li>
+<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="http://sharingamericasmarrow.com/involved/give/">Give</a></li>
+<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="http://sharingamericasmarrow.com/involved/map/">Map</a></li>
+<li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a href="http://sharingamericasmarrow.com/involved/volunteer/">Volunteer</a></li>
+<li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180"><a href="http://sharing-americas-marrow.myshopify.com/">Merch</a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://sharingamericasmarrow.com/involved/your-story/">Your Story</a></li>
+<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="http://sharingamericasmarrow.com/journey/">Journey</a></li>
+<li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="http://sharingamericasmarrow.com/faqs/">FAQS</a></li>
+<li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="http://sharingamericasmarrow.com/be-a-donor-champ/">Be A Donor Champ</a></li>
+<li id="menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177"><a href="http://sharingamericasmarrow.com/contact/">Contact</a></li>
+</ul></div>					</div>
+					<div class="social">
+						<a id="instagram" href="https://instagram.com/sharemarrow2015/" target="_blank"><img src="/wp-content/themes/SAM/images/icon-instagram.svg"/></a>
+						<a id="facebook" href="https://www.facebook.com/sharingamericasmarrow" target="_blank"><img src="/wp-content/themes/SAM/images/icon-facebook.svg"/></a>
+						<a id="twitter" href="https://twitter.com/ShareMarrow" target="_blank"><img src="/wp-content/themes/SAM/images/icon-twitter.svg"/></a>
+						<a id="youtube" href="https://www.youtube.com/channel/UCudGIDPmObIO1DEZ2iRafNg" target="_blank"><img src="/wp-content/themes/SAM/images/icon-youtube.svg"/></a>
+					</div>
+					<a class="finger-print" href="http://stradegyadvertising.com/" target="_blank">Crafted with &hearts; by strADegy</a>
+				</div>
+			</div>
+		</div><!-- end .footer-->
+	</div>
+	</div>
+	 <script>
+		if(window.location.href.split("/")[3].length > 1) {
+				jQuery('body').removeClass('is-the-homepage');
+				jQuery('body').addClass('not-the-homepage');
+			}	else {
+				jQuery('body').removeClass('not-the-homepage');
+				jQuery('body').addClass('is-the-homepage');
+			}
+		 </script>
+		 <script>
+				jQuery(document).ready(function($){
+					$('.bg-video').vide({
+					  mp4: 'http://sharingamericasmarrow.com/wp-content/uploads/2015/10/samsamsamsam720-1200.mp4',
+					  webm: 'http://sharingamericasmarrow.com/wp-content/uploads/2015/10/samsamsamsam720-1200.mp4',
+					  ogv: 'http://sharingamericasmarrow.com/wp-content/uploads/2015/10/samsamsamsam720-1200.mp4',
+					  poster: 'http://sharingamericasmarrow.com/wp-content/uploads/2015/07/SAM_VAN_feild.jpg'
+					}, {
+					  volume: 1,
+					  playbackRate: 1,
+					  muted: true,
+					  loop: true,
+					  autoplay: true,
+					  position: '50% 50%',
+					  posterType: 'detect',
+					  resizing: true
+					});
+					$('.accordion-section').click(function(e) {
+		      if($(this).hasClass('active')) {
+				    $('.accordion-section').removeClass('active');
+		      } else {
+			      $('.accordion-section').removeClass('active');
+			      $(this).addClass('active');
+		      }
+	  		});
+			});
+</script>
+		<script src="/wp-content/themes/SAM/js/jquery.vide.js"></script>
+		 <script src="/wp-content/themes/SAM/js/countUp.min.js"></script>
+		 <script src="/wp-content/themes/SAM/js/functions.js"></script>
+		 <script src="/wp-content/themes/SAM/js/readyExec.js"></script>
+		 <script>
+			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			  ga('create', 'UA-52535972-1', 'auto');
+				ga('send', 'pageview', window.location.pathname);
+
+			</script>
+		<script type='text/javascript' src='http://sharingamericasmarrow.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/sharingamericasmarrow.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sharingamericasmarrow.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://sharingamericasmarrow.com/wp-includes/js/wp-embed.min.js?ver=4.5.2'></script>
+		</div>
+	</body>
+</html>
